@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "author": "giannoug",
-  "license": "ISC",
+  "license": "WTFPL",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
