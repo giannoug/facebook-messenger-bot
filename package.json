@@ -1,0 +1,17 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger bot created with Express and request",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "giannoug",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.71.0"
+  },
+  "private": true
+}

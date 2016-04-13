@@ -1,0 +1,1 @@
+This repository contains a simple echoing Facebook Messenger bot. Read [this](http://hashbang.gr/your-own-facebook-messenger-bot-powered-by-nodejs/) article for more information.
